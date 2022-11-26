@@ -1,4 +1,4 @@
-BASE DE DATOS DE HOSPITAL.
+Citas
 Este proyecto es universitario y en el se emplearan diferentes tipos de funciones para ingresar datos y registralos dependiendo si es del paciente, del doctor o solo para agendar citas
 
 Comenzando 🚀
